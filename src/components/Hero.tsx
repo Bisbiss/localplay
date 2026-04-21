@@ -12,12 +12,12 @@ export default function Hero() {
             </div>
 
             <div className="space-y-4">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-semibold text-gray-900 leading-tight tracking-tight">
-                Level Up
+              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight tracking-tight">
+                Tempat Asik
                 <br />
-                <span className="text-gray-400">Pengalaman</span>
+                Buat <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-violet-600">Mabar</span>
                 <br />
-                Bermainmu.
+                Sama Teman.
               </h1>
               <p className="text-lg text-gray-500 leading-relaxed max-w-md">
                 Sewa dan nikmati gaming terbaik bersama teman. PS3, PS4, PS5, hingga Nintendo — semua tersedia dengan harga terjangkau mulai Rp 35.000.
